@@ -1,5 +1,5 @@
 # Meteo
-Web API for entering project data into the database. Test task for a candidate on Java intern position.
+Web API for interaction with temperature sensors. Test task for a candidate on Java backend position.
 
 Technology stack:
 
