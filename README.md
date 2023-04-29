@@ -3,7 +3,7 @@ Web API for entering project data into the database. Test task for a candidate o
 
 Technology stack:
 
-- Java 11
+- Java 17
 - Spring MVC
 - Spring Boot
 - PostgreSQL
